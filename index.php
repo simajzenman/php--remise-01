@@ -149,7 +149,7 @@
             </ul>
         </form>
 
-        <a href="https://github.com/simajzenman/PHP--remise01">Télécharger cet écran sur Github</a>
+        <a href="https://github.com/simajzenman/php--remise-01/tree/master">Télécharger le code source sur Github</a>
         
          
     </div>
